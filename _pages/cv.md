@@ -11,54 +11,46 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science, [Arizona State University](https://scai.engineering.asu.edu/), 2025 (expected)
+* B.Tech. in Computer Science and Engineering, [Vellore Institute of Technology](https://vit.ac.in/), 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2022 – June 2023: SDE Intern at Webknot Technologies Pvt. Ltd.
+  * Revamped API endpoints within the Palette project, achieving a notable 30% reduction in response times.
+  * Engineered a custom plugin for Sisense BI software, enabling the seamless display of geojson data on a GeoJSON layer atop maps rendered via DeckGL.
+  * Fine-tuned data flow for the DeckGL plugin within Sisense by elevating the efficiency of JAQL queries, ensuring a smoother and more responsive user experience.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python
+  * C++
+  * C
+  * Java
+  * JavaScript
+  * TypeScript
+* Web Technologies & databases
+  * NodeJS
+  * ExpressJS
+  * NestJS
+  * ReactJS
+  * Tailwind
+  * Bootstrap
+  * MongoDB
+  * Google Firebase
+  * MySQL
+* Other
+  * Shell scripting
+  * Pytorch
+  * Tensorflow
+  * OpenCV
 
-Publications
+Leadership
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* THEP Journalistic Literature Club, Vice Chairperson
+  * Established and sustained a robust MERN stack application as the cornerstone of the club's online newsletter platform.
+  * Pioneered the creation of "The Almost Worthwhile Podcast" for our club, achieving an impressive audience of nearly 800 listeners during its inaugural month.
+* Fifth Pillar - Anti Corruption NGO, Editor-in-Chief
+  * Oversaw and directed a 50-member editorial team, responsible for the editing and publication of articles on our blog website.
+  * Innovated by introducing new content formats like "Law Talks," resulting in a remarkable 50% expansion in the club's social media and community outreach.
