@@ -45,6 +45,4 @@ redirect_from:
 6. [Smart Parking Architecture using IoT](https://github.com/AbhinavGor/Smart-Parking-System---IoT-Project)
    - IoT project during junior year at VIT. Enabled parking spaces to run automatically without human interference. Proposed architecture and details can be found [here](https://drive.google.com/file/d/1-s5y2Cf95go4HA1bf-WU8jk31cO4_1c2/view?usp=sharing).
 
-7. [Python bulk emailer](https://github.com/AbhinavGor/Bulk-Emailer)
-
-## [Download my resume!](abhinav_gorantla_resume.pdf)
+## Download my resume [here](/files/abhinav_gorantla_resume.pdf)!
