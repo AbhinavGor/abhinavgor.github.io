@@ -9,22 +9,6 @@ redirect_from:
 
  I am a computer science graduate student at [Arizona State University](https://scai.engineering.asu.edu/). I am interested in the fields of backend development, DevOps, artificial intelligence, and cloud computing, and I am striving to enhance my expertise in these fields. Currently, I am actively engaged in research in the fields of time series analysis and image processing. My other interests include backend development and DevOps. AiOps is something I want to work on in the future.
 
-## Skills
-
-- **Programming Languages:**
-  - C++
-  - Python
-  - Java
-  - Javascript
-  - Typescript
-
-- **Backend Technologies:**
-  - NestJS
-  - NodeJS
-  - Django
-  - PostgreSQL
-  - MongoDB
-
 ## Projects
 
 1. [Time Series forecasting using Enhanced GAFs](#)

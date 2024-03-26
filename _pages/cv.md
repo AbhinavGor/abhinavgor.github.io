@@ -18,7 +18,7 @@ Work experience
 ======
 * March 2024 – Current: Graduate Services Assistant at Arizona State University
   * Currently working in EMITLab under [Dr. Candan](https://kscandan.site) on a project for [ASU Skysong](https://corporate.asu.edu/skysong).
-  * Responsibilites include developing and maintaining a web interface with Node.js, React.js, Python FastAPI, MongoDB and RabbitMQ and integrating it with the SCOPUS API for machine learning and report generation tasks.
+  * Responsibilities include developing and maintaining a web interface with Node.js, React.js, Python FastAPI, MongoDB and RabbitMQ and integrating it with the SCOPUS API for machine learning and report generation tasks.
 * April 2022 – June 2023: SDE Intern at Webknot Technologies Pvt. Ltd.
   * Revamped API endpoints within the Palette project, achieving a notable 30% reduction in response times.
   * Engineered a custom plugin for Sisense BI software, enabling the seamless display of geojson data on a GeoJSON layer atop maps rendered via DeckGL.
