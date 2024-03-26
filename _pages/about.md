@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! I am Abhinav."
+title: **Abhinav** Gorantla
 author_profile: true
 redirect_from: 
   - /about/
