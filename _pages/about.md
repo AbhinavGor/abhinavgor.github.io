@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: **Abhinav** Gorantla
+title: "Abhinav Gorantla"
 author_profile: true
 redirect_from: 
   - /about/
