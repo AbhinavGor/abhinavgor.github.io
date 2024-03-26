@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, [Arizona State University](https://scai.engineering.asu.edu/), 2025 (expected)
-* B.Tech. in Computer Science and Engineering, [Vellore Institute of Technology](https://vit.ac.in/), 2023
+* **Master of Science** in Computer Science, [Arizona State University](https://scai.engineering.asu.edu/), 2025 (expected)
+* **Bachelor of Technology** in Computer Science and Engineering, [Vellore Institute of Technology](https://vit.ac.in/), 2023
 
 Work experience
 ======
