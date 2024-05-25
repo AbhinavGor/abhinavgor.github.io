@@ -11,14 +11,15 @@ redirect_from:
 
 Education
 ======
-* **Master of Science** in Computer Science, [Arizona State University](https://scai.engineering.asu.edu/), 2025 (expected)
+* **Master of Science** in Computer Science (thesis track - Advisor [Dr. K Selcuk Candan](https://kscandan.site)), [Arizona State University](https://scai.engineering.asu.edu/), 2025 (expected)
 * **Bachelor of Technology** in Computer Science and Engineering, [Vellore Institute of Technology](https://vit.ac.in/), 2023
 
 Work experience
 ======
-* March 2024 – Current: Graduate Services Assistant at Arizona State University
-  * Currently working in EMITLab under [Dr. Candan](https://kscandan.site) on a project for [ASU Skysong](https://corporate.asu.edu/skysong).
-  * Responsibilities include developing and maintaining a web interface with Node.js, React.js, Python FastAPI, MongoDB and RabbitMQ and integrating it with the SCOPUS API for machine learning and report generation tasks.
+* March 2024 – Now: Graduate Services Assistant at EMIT Lab, [School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/)
+  * Currently working on CausalBench, a causal machine learning algorithm benchmarking tool and exploring the field of Causality.
+  * Developed a research publication analysis tool for ASU with Node.js, React.js, Python FastAPI, MongoDB and RabbitMQ and integrating it with the SCOPUS API for machine learning and report generation tasks.
+  * Designed an optimized backend architecture for the publication analysis tool to enhance data flow efficiency and boost server response time by 80%.
 * April 2022 – June 2023: SDE Intern at Webknot Technologies Pvt. Ltd.
   * Revamped API endpoints within the Palette project, achieving a notable 30% reduction in response times.
   * Engineered a custom plugin for Sisense BI software, enabling the seamless display of geojson data on a GeoJSON layer atop maps rendered via DeckGL.
