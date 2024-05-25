@@ -16,6 +16,10 @@ Education
 
 Work experience
 ======
+* March 2024 – Now: Graduate Services Assistant at EMIT Lab, [School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/)
+  * Currently working on CausalBench, a causal machine learning algorithm benchmarking tool and exploring the field of Causality.
+  * Developed a research publication analysis tool for ASU with Node.js, React.js, Python FastAPI, MongoDB and RabbitMQ and integrating it with the SCOPUS API for machine learning and report generation tasks.
+  * Designed an optimized backend architecture to enhance data flow efficiency and boost server response time by 80%.
 * April 2022 – June 2023: SDE Intern at Webknot Technologies Pvt. Ltd.
   * Revamped API endpoints within the Palette project, achieving a notable 30% reduction in response times.
   * Engineered a custom plugin for Sisense BI software, enabling the seamless display of geojson data on a GeoJSON layer atop maps rendered via DeckGL.
