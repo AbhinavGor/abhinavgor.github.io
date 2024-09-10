@@ -16,10 +16,15 @@ Education
 
 Work experience
 ======
-* March 2024 – Now: Graduate Services Assistant at EMIT Lab, [School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/)
-  * Currently working on CausalBench, a causal machine learning algorithm benchmarking tool and exploring the field of Causality.
-  * Developed a research publication analysis tool for ASU with Node.js, React.js, Python FastAPI, MongoDB and RabbitMQ and integrating it with the SCOPUS API for machine learning and report generation tasks.
-  * Designed an optimized backend architecture for the publication analysis tool to enhance data flow efficiency and boost server response time by 80%.
+* August 2024 - Now: Graduate Teaching and Research Assistant at Emitlab, [School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/)
+  * Working on developing an optimized algorithm to retrieve Skylines in relational database systems efficiently.
+  * Teaching Assistant for the graduate level course, CSE515 - Multimedia and Web Databases taught by Prof. K. Selcuk Candan. Held bi-weekly office hours.
+
+* March 2024 – August 2024: Graduate Services Assistant at Emitlab, [School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/)
+  * Supported researchers at CASCADE Lab on an effort to build the causalbench python package and website to create an end-to-end benchmarking solution for researchers in the field on causally informed machine learning.
+  * Served as a full stack developer in the CausalBench project, a framework for benchmarking causal machine learning algorithms.
+  * Engineered and optimized backend architecture for the Skysong project to enhance data flow efficiency and boost server response time by 80%. Also reduced the cost of deploying the system by 30% by integrating AWS Sagemaker into the system.
+
 * April 2022 – June 2023: SDE Intern at Webknot Technologies Pvt. Ltd.
   * Revamped API endpoints within the Palette project, achieving a notable 30% reduction in response times.
   * Engineered a custom plugin for Sisense BI software, enabling the seamless display of geojson data on a GeoJSON layer atop maps rendered via DeckGL.
