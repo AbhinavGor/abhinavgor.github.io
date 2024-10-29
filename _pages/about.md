@@ -7,15 +7,13 @@ redirect_from:
   - /about.html
 ---
 
- I am a computer science graduate student at [Arizona State University](https://scai.engineering.asu.edu/).
+ Abhinav Gorantla is a Computer Science graduate student at [Arizona State University](https://scai.engineering.asu.edu/).
 
 ## Education
-======
-* **Master of Science** in Computer Science (thesis track - Advisor [Dr. K Selcuk Candan](https://kscandan.site)), [Arizona State University](https://scai.engineering.asu.edu/), 2025 (expected)
+* **Master of Science** in Computer Science [Arizona State University](https://scai.engineering.asu.edu/), 2025 (expected)
 * **Bachelor of Technology** in Computer Science and Engineering, [Vellore Institute of Technology](https://vit.ac.in/), 2023
 
 ## Experience
-======
 * August 2024 - Now: Graduate Research Assistant at Emitlab, [School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/)
   * Working on developing an optimized algorithm to retrieve Skylines in relational database systems efficiently.
   * Supporting researchers at CASCADE Lab in maintaining and developing[causalbench.org](https://causalbench.org).
@@ -34,7 +32,24 @@ redirect_from:
   * Revamped API endpoints within the Palette project, achieving a notable 30% reduction in response times.
   * Engineered a custom plugin for Sisense BI software, enabling the seamless display of geojson data on a GeoJSON layer atop maps rendered via DeckGL.
   * Fine-tuned data flow for the DeckGL plugin within Sisense by elevating the efficiency of JAQL queries, ensuring a smoother and more responsive user experience.
-  
+
+## Publications
+
+1. [**Introducing CausalBench: A Flexible Benchmark Framework for Causal Analysis and Machine Learning**](https://doi.org/10.1145/3627673.3679218)[[website](https://causalbench.org)]
+   - Ahmet Kapkiç, Pratanu Mandal, Shu Wan, Paras Sheth, **Abhinav Gorantla**, Yoonhyuk Choi, Huan Liu, K. Selçuk Candan
+   - ACM International Conference on Information and Knowledge Management 2024
+   - Best Demo Paper Award
+
+## Projects
+
+1. **Research Publications Analysis tool**
+   - Proposed an architecture and built a research publications analysis tool for ASU. This tool was built as a web application which could fetch research paper information affiliated with ASU using SCOPUS APIs and perform a text analysis on their abstracts.
+   - Reduced the server response time by 80% and improved the user experience by integrating RabbitMQ message queues in the system.
+   - **Tech stack used:** ReactJS, NodeJS, Python-FastAPI, RabbitMQ, MongoDB, AWS S3, AWS Sagemaker, OpenAI APIs.
+2. **Multimodal Image Retrieval System using Advanced Feature Analysis and Search Techniques**
+   - Developed a Python-based image retrieval engine encompassing feature extraction from Caltech101 dataset images, latent semantics computation, clustering, and classification.
+   - Employed Locality Sensitive Hashing to index image features, optimizing nearest neighbor searches and ensuring scalability for expansive image datasets.
+<!-- 
 ## Projects
 
 1. [Time Series forecasting using Enhanced GAFs](#)
@@ -53,6 +68,6 @@ redirect_from:
    - Built an NLP pipeline to extract various features from an essay like cosine similarity, Latent Semantic Analysis, TF IDF scores, and Orthography (spell checking). Used different Machine Learning Algorithms for scoring essays, with a comparative analysis.
 
 6. [Smart Parking Architecture using IoT](https://github.com/AbhinavGor/Smart-Parking-System---IoT-Project){:target="_blank"}
-   - IoT project during junior year at VIT. Enabled parking spaces to run automatically without human interference. Proposed architecture and details can be found [here](https://drive.google.com/file/d/1-s5y2Cf95go4HA1bf-WU8jk31cO4_1c2/view?usp=sharing){:target="_blank"}.
+   - IoT project during junior year at VIT. Enabled parking spaces to run automatically without human interference. Proposed architecture and details can be found [here](https://drive.google.com/file/d/1-s5y2Cf95go4HA1bf-WU8jk31cO4_1c2/view?usp=sharing){:target="_blank"}. -->
 
 ## Download my resume [here](/files/abhinav_gorantla_resume.pdf){:target="_blank"}!
