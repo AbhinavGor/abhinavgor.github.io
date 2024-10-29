@@ -14,19 +14,20 @@ redirect_from:
 * **Bachelor of Technology** in Computer Science and Engineering, [Vellore Institute of Technology](https://vit.ac.in/), 2023
 
 ## Experience
-* August 2024 - Now: Graduate Research Assistant at Emitlab, [School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/)
-  * Working on developing an optimized algorithm to retrieve Skylines in relational database systems efficiently.
-  * Supporting researchers at CASCADE Lab in maintaining and developing[causalbench.org](https://causalbench.org).
+* **August 2024 - Now**: Graduate Research Assistant at Emitlab, [School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/)
+  * Developing an optimized algorithm for efficient Skyline retrieval in relational database systems.
+  * Collaborating with researchers at CASCADE Lab to maintain and improve [causalbench.org](https://causalbench.org), a platform dedicated to causal discovery benchmarks.
 
-* August 2024 - Now: Graduate Teaching Assistant at Emitlab, [School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/)
-  * Teaching Assistant for the graduate level course, CSE515 - Multimedia and Web Databases taught by Prof. K. Selcuk Candan. 
-  * Held bi-weekly office hours.
-  * Organized project demos and helped students with the projects.
+* **August 2024 - Now**: Graduate Teaching Assistant at Emitlab, [School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/)
+  * Assisting in CSE515 - Multimedia and Web Databases, a graduate-level course taught by [Prof. K. Selcuk Candan](https://kscandan.site).
+  * Conducting bi-weekly office hours to provide support on course material and address student questions.
+  * Facilitating project demos and offering guidance to students on project development and best practices.
+
 
 * March 2024 – August 2024: Graduate Services Assistant at Emitlab, [School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/)
-  * Supported researchers at CASCADE Lab in their efforts to build the causalbench python package and website to create an end-to-end benchmarking solution for researchers in the field on causally informed machine learning.
-  * Served as a full stack developer in the CausalBench project, a framework for benchmarking causal machine learning algorithms.
-  * Engineered and optimized backend architecture for the Skysong project to enhance data flow efficiency and boost server response time by 80%. Also reduced the cost of deploying the system by 30% by integrating AWS Sagemaker into the system.
+  * Supported CASCADE Lab researchers in developing the causalbench Python package and website, establishing an end-to-end benchmarking solution for the causal machine learning community.
+  * Served as a full stack developer on the CausalBench project, contributing to a comprehensive framework for benchmarking causal machine learning algorithms.
+  * Optimized backend architecture for the Skysong project, enhancing data flow efficiency and achieving an 80% improvement in server response time. Reduced deployment costs by 30% by integrating AWS SageMaker.
 
 * April 2022 – June 2023: SDE Intern at Webknot Technologies Pvt. Ltd.
   * Revamped API endpoints within the Palette project, achieving a notable 30% reduction in response times.
@@ -38,7 +39,7 @@ redirect_from:
 1. [**Introducing CausalBench: A Flexible Benchmark Framework for Causal Analysis and Machine Learning**](https://doi.org/10.1145/3627673.3679218)[[website](https://causalbench.org)]
    - Ahmet Kapkiç, Pratanu Mandal, Shu Wan, Paras Sheth, **Abhinav Gorantla**, Yoonhyuk Choi, Huan Liu, K. Selçuk Candan
    - ACM International Conference on Information and Knowledge Management 2024
-   - Best Demo Paper Award
+   - 🏆 Best Demo Paper Award
 
 ## Projects
 
