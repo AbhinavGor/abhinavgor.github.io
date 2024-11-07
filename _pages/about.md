@@ -9,6 +9,8 @@ redirect_from:
 
  Abhinav Gorantla is a Computer Science graduate student at [Arizona State University](https://scai.engineering.asu.edu/).
 
+## Download my resume [here](/files/abhinav_gorantla_resume.pdf){:target="_blank"}.
+
 ## Education
 * **Master of Science** in Computer Science [Arizona State University](https://scai.engineering.asu.edu/), 2025 (expected)
 * **Bachelor of Technology** in Computer Science and Engineering, [Vellore Institute of Technology](https://vit.ac.in/), 2023
@@ -51,4 +53,5 @@ redirect_from:
 2. **Multimodal Image Retrieval System using Advanced Feature Analysis and Search Techniques**
    - Developed a Python-based image retrieval engine encompassing feature extraction from Caltech101 dataset images, latent semantics computation, clustering, and classification.
    - Employed Locality Sensitive Hashing to index image features, optimizing nearest neighbor searches and ensuring scalability for expansive image datasets.
-## Download my resume [here](/files/abhinav_gorantla_resume.pdf){:target="_blank"}!
+
+[![Visit tracker](https://mapmyvisitors.com/map.png?cl=ffffff&w=a&t=t&d=WZOKWdh_jqsLTegV7MhXolepLGxHeA92Gxx2VcwD_hQ&co=2d78ad&ct=ffffff)](https://mapmyvisitors.com/web/1bwk8 "Visit tracker")
