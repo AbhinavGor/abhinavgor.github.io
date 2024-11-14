@@ -9,7 +9,8 @@ redirect_from:
 
  Abhinav Gorantla is a Computer Science graduate student at [Arizona State University](https://scai.engineering.asu.edu/).
 
-Download my resume [here](/files/abhinav_gorantla_resume.pdf){:target="_blank"}.
+[Download Resume.](/files/abhinav_gorantla_resume.pdf){:target="_blank"}
+[Download CV.](/files/abhinav_gorantla_cv.pdf)
 
 ## Education
 * **Master of Science** in Computer Science [Arizona State University](https://scai.engineering.asu.edu/), 2025 (expected)
@@ -42,7 +43,6 @@ Download my resume [here](/files/abhinav_gorantla_resume.pdf){:target="_blank"}.
    - 🏆 Best Demo Paper Award
    - **Authors** - Ahmet Kapkiç, Pratanu Mandal, Shu Wan, Paras Sheth, **Abhinav Gorantla**, Yoonhyuk Choi, Huan Liu, K. Selçuk Candan
    - **Venue** - [ACM International Conference on Information and Knowledge Management 2024](https://doi.org/10.1145/3627673)
-   - 
 
 ## Projects
 
