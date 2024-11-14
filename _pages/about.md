@@ -10,7 +10,8 @@ redirect_from:
  Abhinav Gorantla is a Computer Science graduate student at [Arizona State University](https://scai.engineering.asu.edu/).
 
 [Download Resume.](/files/abhinav_gorantla_resume.pdf){:target="_blank"}
-[Download CV.](/files/abhinav_gorantla_cv.pdf)
+
+[Download CV.](/files/abhinav_gorantla_cv.pdf){:target="_blank"}
 
 ## Education
 * **Master of Science** in Computer Science [Arizona State University](https://scai.engineering.asu.edu/), 2025 (expected)
