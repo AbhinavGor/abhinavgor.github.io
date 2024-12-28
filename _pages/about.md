@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
- Abhinav Gorantla is a Computer Science graduate student at [Arizona State University](https://scai.engineering.asu.edu/).
+Abhinav Gorantla is a researcher and software developer with a deep interest in causality, machine learning, multi-objective optimization and backend web-development. He is currently pursuing a Master of Science degree in Computer Science at Arizona State University[Arizona State University](https://scai.engineering.asu.edu/), where he works as a Graduate Research and Teaching Assistant in the EMIT Lab. His research focuses on utilizing causal analysis to optimize traditional algorithms.
+
+Abhinav has contributed to award-winning projects like [**CausalBench**](https://causalbench.org), a flexible benchmarking solution for causal ML algorithms. His academic journey is complemented by extensive practical experience in building research tools and developing full-stack applications.
 
 [Download Resume.](/files/abhinav_gorantla_resume.pdf){:target="_blank"}
 
