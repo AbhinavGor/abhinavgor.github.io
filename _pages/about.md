@@ -56,5 +56,8 @@ Abhinav has contributed to award-winning projects like [CausalBench](https://cau
 2. **Multimodal Image Retrieval System using Advanced Feature Analysis and Search Techniques**
    - Developed a Python-based image retrieval engine encompassing feature extraction from Caltech101 dataset images, latent semantics computation, clustering, and classification.
    - Employed Locality Sensitive Hashing to index image features, optimizing nearest neighbor searches and ensuring scalability for expansive image datasets.
+3. **Enhancing Diversity in the LLM Modulo Framework through Multi-Response Generation**
+   - Developed the Diversified LLM Modulo framework to address looping and redundancy in the LLM Modulo framework.
+   - Improved the performance of the LLM Modulo Framework on Planning tasks. Tested my framework on the [Google Deepmind Natural Plan benchmark](https://github.com/google-deepmind/natural-plan) ([paper](https://arxiv.org/abs/2406.04520)) and achieved a performance improvement of 300% by increasing the diversity of LLM (Large Language Model) Responses.
 
 <!-- [![Visit tracker](https://mapmyvisitors.com/map.png?cl=ffffff&w=a&t=t&d=WZOKWdh_jqsLTegV7MhXolepLGxHeA92Gxx2VcwD_hQ&co=2d78ad&ct=ffffff)](https://mapmyvisitors.com/web/1bwk8 "Visit tracker") -->
