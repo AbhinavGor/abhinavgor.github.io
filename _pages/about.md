@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Abhinav Gorantla is a researcher and software developer with a deep interest in causality, machine learning, multi-objective optimization and backend web-development. He is currently pursuing a Master of Science degree in Computer Science at [Arizona State University](https://scai.engineering.asu.edu/), where he works as a Graduate Research and Teaching Assistant in the EMIT Lab. His research focuses on utilizing causal analysis to optimize traditional algorithms.
+Abhinav Gorantla is currently pursuing a Master of Science degree in Computer Science at [Arizona State University](https://scai.engineering.asu.edu/), where he works as a Graduate Research and Teaching Assistant in the EMIT Lab. His research interests are causal learning, machine learning, multi-objective optimization. He also has experience as a full-stack web developer.
 
-Abhinav has contributed to award-winning projects like [CausalBench](https://causalbench.org), a flexible benchmarking solution for causal ML algorithms. His academic journey is complemented by extensive practical experience in building research tools and developing full-stack applications.
+Abhinav has contributed to award-winning projects like [CausalBench](https://causalbench.org) (a flexible benchmarking solution for causal ML algorithms).
 
 [Download Resume.](/files/abhinav_gorantla_resume.pdf){:target="_blank"}
 
@@ -25,9 +25,7 @@ Abhinav has contributed to award-winning projects like [CausalBench](https://cau
   * Collaborating with researchers at CASCADE Lab to maintain and improve [causalbench.org](https://causalbench.org), a platform dedicated to causal discovery benchmarks.
 
 * **August 2024 - Now**: Graduate Teaching Assistant at Emitlab, [School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/)
-  * Assisting in CSE515 - Multimedia and Web Databases, a graduate-level course taught by [Prof. K. Selcuk Candan](https://kscandan.site).
-  * Conducting bi-weekly office hours to provide support on course material and address student questions.
-  * Facilitating project demos and offering guidance to students on project development and best practices.
+  * Assisted in CSE515 and CSE510 graduate-level computer science courses.
 
 
 * March 2024 – August 2024: Graduate Services Assistant at Emitlab, [School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/)
@@ -58,6 +56,6 @@ Abhinav has contributed to award-winning projects like [CausalBench](https://cau
    - Employed Locality Sensitive Hashing to index image features, optimizing nearest neighbor searches and ensuring scalability for expansive image datasets.
 3. **Enhancing Diversity in the LLM Modulo Framework through Multi-Response Generation**
    - Developed the Diversified LLM Modulo framework to address looping and redundancy in the LLM Modulo framework.
-   - Improved the performance of the LLM Modulo Framework on Planning tasks. Tested my framework on the [Google Deepmind Natural Plan benchmark](https://github.com/google-deepmind/natural-plan) ([paper](https://arxiv.org/abs/2406.04520)) and achieved a performance improvement of 300% by increasing the diversity of LLM (Large Language Model) Responses.
+   - Improved the performance of the LLM Modulo Framework on Planning tasks. Tested my framework on the [Google Deepmind Natural Plan benchmark](https://github.com/google-deepmind/natural-plan) and achieved a performance improvement of 300% by increasing the diversity of LLM (Large Language Model) Responses.
 
 <!-- [![Visit tracker](https://mapmyvisitors.com/map.png?cl=ffffff&w=a&t=t&d=WZOKWdh_jqsLTegV7MhXolepLGxHeA92Gxx2VcwD_hQ&co=2d78ad&ct=ffffff)](https://mapmyvisitors.com/web/1bwk8 "Visit tracker") -->
