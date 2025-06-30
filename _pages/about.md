@@ -1,19 +1,19 @@
 ---
 permalink: /
-title: "Abhinav Gorantla"
+title: "Abhinav"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Abhinav Gorantla is currently pursuing a Master of Science degree in Computer Science at [Arizona State University](https://scai.engineering.asu.edu/), where he works as a Graduate Research and Teaching Assistant in the EMIT Lab. His research interests are causal learning, machine learning, multi-objective optimization. He also has experience as a full-stack web developer.
+Abhinav is currently pursuing a Master of Science degree in Computer Science at [Arizona State University](https://scai.engineering.asu.edu/), where he works as a Graduate Research and Teaching Assistant in the EMIT Lab. His research interests are causal learning, machine learning, multi-objective optimization. He also has experience as a full-stack web developer.
 
 Abhinav has contributed to award-winning projects like [CausalBench](https://causalbench.org) (a flexible benchmarking solution for causal ML algorithms).
 
-[Download Resume.](/files/abhinav_gorantla_resume.pdf){:target="_blank"}
+[Download Resume.](/files/abhinav_resume.pdf){:target="_blank"}
 
-[Download CV.](/files/abhinav_gorantla_cv.pdf){:target="_blank"}
+[Download CV.](/files/abhinav_cv.pdf){:target="_blank"}
 
 ## Education
 * **Master of Science** in Computer Science [Arizona State University](https://scai.engineering.asu.edu/), 2025 (expected)
@@ -29,7 +29,7 @@ Abhinav has contributed to award-winning projects like [CausalBench](https://cau
 
 
 * March 2024 – August 2024: Graduate Services Assistant at Emitlab, [School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/)
-  * Supported CASCADE Lab researchers, under the mentorship of [Dr. K. Selcuk Candan](https://kscandan.site) and [Dr. Huan Liu](https://www.public.asu.edu/~huanliu/), in developing the causalbench Python package and website, establishing an end-to-end benchmarking solution for the causal machine learning community.
+  * Supported CASCADE Lab researchers in developing the causalbench Python package and website, establishing an end-to-end benchmarking solution for the causal machine learning community.
   * Served as a full stack developer on the CausalBench project, contributing to a comprehensive framework for benchmarking causal machine learning algorithms.
   * Optimized backend architecture for the Skysong project, enhancing data flow efficiency and achieving an 80% improvement in server response time. Reduced deployment costs by 30% by integrating AWS SageMaker.
 
@@ -42,7 +42,6 @@ Abhinav has contributed to award-winning projects like [CausalBench](https://cau
 
 1. [**Introducing CausalBench: A Flexible Benchmark Framework for Causal Analysis and Machine Learning**](https://doi.org/10.1145/3627673.3679218) [[website](https://causalbench.org)]
    - 🏆 Best Demo Paper Award
-   - **Authors** - Ahmet Kapkiç, Pratanu Mandal, Shu Wan, Paras Sheth, **Abhinav Gorantla**, Yoonhyuk Choi, Huan Liu, K. Selçuk Candan
    - **Venue** - [ACM International Conference on Information and Knowledge Management 2024](https://doi.org/10.1145/3627673)
 
 ## Projects
