@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Abhinav"
+title: "Abhinav Gorantla"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Abhinav is currently pursuing a Master of Science degree in Computer Science at [Arizona State University](https://scai.engineering.asu.edu/), where he works as a Graduate Research and Teaching Assistant in the EMIT Lab. His research interests are causal learning, machine learning, multi-objective optimization. He also has experience as a full-stack web developer.
+Abhinav Gorantla is currently pursuing a Master of Science degree in Computer Science at [Arizona State University](https://scai.engineering.asu.edu/), where he works as a Graduate Research and Teaching Assistant in the EMIT Lab. His research interests are causal learning, machine learning, multi-objective optimization. He also has experience as a full-stack web developer.
 
-Abhinav has contributed to award-winning projects like [CausalBench](https://causalbench.org) (a flexible benchmarking solution for causal ML algorithms).
+Abhinav Gorantla has contributed to award-winning projects like [CausalBench](https://causalbench.org) (a flexible benchmarking solution for causal ML algorithms).
 
 [Download Resume.](/files/abhinav_resume.pdf){:target="_blank"}
 
@@ -24,7 +24,7 @@ Abhinav has contributed to award-winning projects like [CausalBench](https://cau
   * Developing an optimized algorithm for efficient Skyline retrieval in relational database systems.
   * Collaborating with researchers at CASCADE Lab to maintain and improve [causalbench.org](https://causalbench.org), a platform dedicated to causal discovery benchmarks.
 
-* **August 2024 - Now**: Graduate Teaching Assistant at Emitlab, [School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/)
+* **August 2024 - May 2025**: Graduate Teaching Assistant at Emitlab, [School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/)
   * Assisted in CSE515 and CSE510 graduate-level computer science courses.
 
 

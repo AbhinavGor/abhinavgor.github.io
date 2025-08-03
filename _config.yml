@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Abhinav"
+title                    : "Abhinav Gorantla"
 title_separator          : "-"
-name                     : &name "Abhinav"
+name                     : &name "Abhinav Gorantla"
 description              : &description "MSCS @ ASU"
 url                      : https://abhinavgor.github.io
 baseurl                  : ""
@@ -22,7 +22,7 @@ repository               : # repo
 author:
   # Biographic information
   avatar           : "https://avatars.githubusercontent.com/u/56104674?v=4"
-  name             : "Abhinav"
+  name             : "Abhinav Gorantla"
   pronouns         : # example: "she/her"  
   bio              : #"CS @ ASU"
   location         : #"Tempe, AZ"
