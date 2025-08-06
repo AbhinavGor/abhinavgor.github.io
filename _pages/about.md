@@ -11,9 +11,9 @@ Abhinav Gorantla is currently pursuing a Master of Science degree in Computer Sc
 
 Abhinav Gorantla has contributed to award-winning projects like [CausalBench](https://causalbench.org) (a flexible benchmarking solution for causal ML algorithms).
 
-[Download Resume.](/files/abhinav_resume.pdf){:target="_blank"}
+[Download Resume.](/files/abhinav_gorantla_resume.pdf){:target="_blank"}
 
-[Download CV.](/files/abhinav_cv.pdf){:target="_blank"}
+[Download CV.](/files/abhinav_gorantla_cv.pdf){:target="_blank"}
 
 ## News
 * Excited to announce that we will be presenting a [CausalBench tutorial](https://tutorial.causalbench.org) at KDD 2025 in Toronto, ON, on August 4, 2025.
