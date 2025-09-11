@@ -12,15 +12,71 @@ I am active on Strava. Follow me [here](https://www.strava.com/athletes/43863750
 
 ## Photography
 
-![Photo0](https://images.unsplash.com/photo-1737420081747-2323fcf86595?q=80&w=3550&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+<p>
+  See the full gallery on
+  <a href="https://unsplash.com/@YOUR_UNSPLASH_USERNAME?utm_source=abhinavgor_portfolio&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a>.
+</p>
 
-![Photo1](https://images.unsplash.com/photo-1737783182884-581033a34fa1?q=80&w=3385&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+<div id="unsplash-gallery" class="unsplash-grid"></div>
 
-![Photo2](https://images.unsplash.com/photo-1699253227312-25e6385f7aee?q=80&w=2136&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+<style>
+  /* simple responsive masonry-ish grid */
+  .unsplash-grid {
+    column-width: 300px;
+    column-gap: 1rem;
+  }
+  .unsplash-item {
+    break-inside: avoid;
+    margin: 0 0 1rem;
+  }
+  .unsplash-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+  }
+  .unsplash-caption {
+    font-size: 0.85rem;
+    margin-top: 0.35rem;
+    opacity: 0.8;
+  }
+</style>
 
-![Photo3](https://images.unsplash.com/photo-1699253314432-c6f878c5e1dc?q=80&w=3356&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+<script>
+  (async function () {
+    const USERNAME = "YOUR_UNSPLASH_USERNAME";
+    const PROXY = "YOUR_PROXY_URL"; // e.g. https://unsplash-proxy.yourdomain.workers.dev
+    const perPage = 30;
 
+    const url = `${PROXY}/users/${encodeURIComponent(USERNAME)}/photos?per_page=${perPage}&order_by=latest`;
 
-![Photo6](https://images.unsplash.com/photo-1737420081752-2e36d48e0ed7?q=80&w=3550&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+    try {
+      const res = await fetch(url);
+      if (!res.ok) throw new Error("Unsplash proxy error: " + res.status);
+      const photos = await res.json();
 
-![Photo7](https://images.unsplash.com/photo-1737420541266-cca44c429c99?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+      const container = document.getElementById("unsplash-gallery");
+      container.innerHTML = photos.map(p => {
+        const photoLink = `${p.links.html}?utm_source=abhinavgor_portfolio&utm_medium=referral`;
+        const userLink  = `${p.user.links.html}?utm_source=abhinavgor_portfolio&utm_medium=referral`;
+        const alt       = p.alt_description || p.description || "Unsplash photo";
+
+        return `
+          <figure class="unsplash-item">
+            <a href="${photoLink}" target="_blank" rel="noopener">
+              <img src="${p.urls.regular}" alt="${alt}">
+            </a>
+            <figcaption class="unsplash-caption">
+              Photo by <a href="${userLink}" target="_blank" rel="noopener">${p.user.name}</a> on
+              <a href="https://unsplash.com/?utm_source=abhinavgor_portfolio&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a>
+            </figcaption>
+          </figure>
+        `;
+      }).join("");
+    } catch (err) {
+      console.error(err);
+      document.getElementById("unsplash-gallery").textContent =
+        "Sorry—couldn’t load photos right now.";
+    }
+  })();
+</script>
