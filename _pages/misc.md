@@ -14,7 +14,7 @@ I am active on Strava. Follow me [here](https://www.strava.com/athletes/43863750
 
 <p>
   See the full gallery on
-  <a href="https://unsplash.com/@YOUR_UNSPLASH_USERNAME?utm_source=abhinavgor_portfolio&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a>.
+  <a href="https://unsplash.com/@abhinavgorantla?utm_source=abhinavgor_portfolio&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a>.
 </p>
 
 <div id="unsplash-gallery" class="unsplash-grid"></div>
