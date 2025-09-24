@@ -15,9 +15,6 @@ Abhinav has contributed to award-winning projects like [CausalBench](https://cau
 
 [Download CV.](/files/abhinav_gorantla_cv.pdf){:target="_blank"}
 
-## News
-* Excited to announce that we will be presenting a [Hands-On Tutorial on CausalBench](https://tutorial.causalbench.org) at KDD 2025 in Toronto, ON, on August 4, 2025.
-
 ## Education
 * **Master of Science** in Computer Science [Arizona State University](https://scai.engineering.asu.edu/), 2025 (expected)
 * **Bachelor of Technology** in Computer Science and Engineering, [Vellore Institute of Technology](https://vit.ac.in/), 2023
