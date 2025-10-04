@@ -7,27 +7,27 @@ redirect_from:
   - /about.html
 ---
 
-Abhinav Gorantla is currently pursuing a Master of Science degree in Computer Science at [Arizona State University](https://scai.engineering.asu.edu/), where he works as a Graduate Research and Teaching Assistant in the EMIT Lab. His research interests are machine learning, multi-objective optimization, generative AI (broadly). He also has experience as a full-stack web developer.
+Abhinav Gorantla is currently pursuing a Master of Science degree in Computer Science at [Arizona State University](https://scai.engineering.asu.edu/){target="_blank" rel="noopener noreferrer"}, where he works as a Graduate Research and Teaching Assistant in the EMIT Lab. His research interests are machine learning, multi-objective optimization, generative AI (broadly). He also has experience as a full-stack web developer.
 
-Abhinav has contributed to award-winning projects like [CausalBench](https://causalbench.org) (a flexible benchmarking solution for causal ML algorithms).
+Abhinav has contributed to award-winning projects like [CausalBench](https://causalbench.org){target="_blank" rel="noopener noreferrer"} (a flexible benchmarking solution for causal ML algorithms).
 
 ## Education
-* **Master of Science** in Computer Science, [Arizona State University](https://scai.engineering.asu.edu/), December 2025 (expected)
+* **Master of Science** in Computer Science, [Arizona State University](https://scai.engineering.asu.edu/){target="_blank" rel="noopener noreferrer"}, December 2025 (expected)
   - CGPA: 4.00/4.00 (current)
-* **Bachelor of Technology** in Computer Science and Engineering, [Vellore Institute of Technology](https://vit.ac.in/), May 2023
+* **Bachelor of Technology** in Computer Science and Engineering, [Vellore Institute of Technology](https://vit.ac.in/){target="_blank" rel="noopener noreferrer"}, May 2023
   - CGPA: 8.98/10.00
 
 ## Experience
-* **August 2024 - Now**: Graduate Research Assistant at Emitlab, [School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/)
+* **August 2024 - Now**: Graduate Research Assistant at Emitlab, [School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/){target="_blank" rel="noopener noreferrer"}
   * Developing an optimized algorithm for efficient Skyline retrieval in relational database systems.
-  * Collaborating with researchers at CASCADE Lab to maintain and improve [causalbench.org](https://causalbench.org), a platform dedicated to causal discovery benchmarks.
-  * Built a causal-analysis recommendation system; led end-to-end integration and serverless deployment on AWS Lambda; published at [**CIKM 2025**](https://cikm2025.org/).
+  * Collaborating with researchers at CASCADE Lab to maintain and improve [causalbench.org](https://causalbench.org){target="_blank" rel="noopener noreferrer"}, a platform dedicated to causal discovery benchmarks.
+  * Built a causal-analysis recommendation system; led end-to-end integration and serverless deployment on AWS Lambda; published at [**CIKM 2025**](https://cikm2025.org/){target="_blank" rel="noopener noreferrer"}.
 
-* **August 2024 - May 2025**: Graduate Teaching Assistant at Emitlab, [School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/)
+* **August 2024 - May 2025**: Graduate Teaching Assistant at Emitlab, [School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/){target="_blank" rel="noopener noreferrer"}
   * Assisted in CSE515 and CSE510 graduate-level computer science courses.
 
 
-* March 2024 – August 2024: Graduate Services Assistant at Emitlab, [School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/)
+* March 2024 – August 2024: Graduate Services Assistant at Emitlab, [School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/){target="_blank" rel="noopener noreferrer"}
   * Supported CASCADE Lab researchers in developing the causalbench Python package and website, establishing an end-to-end benchmarking solution for the causal machine learning community.
   * Served as a full stack developer on the CausalBench project, contributing to a comprehensive framework for benchmarking causal machine learning algorithms.
   * Optimized backend architecture for the Skysong project, enhancing data flow efficiency and achieving an 80% improvement in server response time. Reduced deployment costs by 30% by integrating AWS SageMaker.
@@ -39,13 +39,13 @@ Abhinav has contributed to award-winning projects like [CausalBench](https://cau
 
 ## Publications
 
-1. [**Introducing CausalBench: A Flexible Benchmark Framework for Causal Analysis and Machine Learning**] · [Paper](https://doi.org/10.1145/3627673.3679218) · [Website](https://causalbench.org)
+1. [**Introducing CausalBench: A Flexible Benchmark Framework for Causal Analysis and Machine Learning**] · [Paper](https://doi.org/10.1145/3627673.3679218){target="_blank" rel="noopener noreferrer"} · [Website](https://causalbench.org){target="_blank" rel="noopener noreferrer"}
    - 🏆 Best Demo Paper Award
-   - **Venue** - [ACM International Conference on Information and Knowledge Management 2024](https://doi.org/10.1145/3627673)
+   - **Venue** - [ACM International Conference on Information and Knowledge Management 2024](https://doi.org/10.1145/3627673){target="_blank" rel="noopener noreferrer"}
 
 ## Community Service & Outreach
 * **Student Volunteer**, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)
-* **Tutorial Presenter**, KDD 2025 — *CausalBench: Causal Learning Research Streamlined* · [Paper](https://dl.acm.org/doi/abs/10.1145/3711896.3737598) · [Video (YouTube)](https://www.youtube.com/watch?v=oGA2kf4Trg4)
+* **Tutorial Presenter**, KDD 2025 — *CausalBench: Causal Learning Research Streamlined* · [Paper](https://dl.acm.org/doi/abs/10.1145/3711896.3737598){target="_blank" rel="noopener noreferrer"} · [Video (YouTube)](https://www.youtube.com/watch?v=oGA2kf4Trg4){target="_blank" rel="noopener noreferrer"}
 
 ## Projects
 
