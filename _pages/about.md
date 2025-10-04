@@ -11,18 +11,17 @@ Abhinav Gorantla is currently pursuing a Master of Science degree in Computer Sc
 
 Abhinav has contributed to award-winning projects like [CausalBench](https://causalbench.org) (a flexible benchmarking solution for causal ML algorithms).
 
-[Download Resume.](/files/abhinav_gorantla_resume.pdf){:target="_blank"}
-
-[Download CV.](/files/abhinav_gorantla_cv.pdf){:target="_blank"}
-
 ## Education
-* **Master of Science** in Computer Science [Arizona State University](https://scai.engineering.asu.edu/), 2025 (expected)
-* **Bachelor of Technology** in Computer Science and Engineering, [Vellore Institute of Technology](https://vit.ac.in/), 2023
+* **Master of Science** in Computer Science, [Arizona State University](https://scai.engineering.asu.edu/), December 2025 (expected)
+  - GPA: 4.00/4.00 (current)
+* **Bachelor of Technology** in Computer Science and Engineering, [Vellore Institute of Technology](https://vit.ac.in/), May 2023
+  - CGPA: 8.98/10.00
 
 ## Experience
 * **August 2024 - Now**: Graduate Research Assistant at Emitlab, [School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/)
   * Developing an optimized algorithm for efficient Skyline retrieval in relational database systems.
   * Collaborating with researchers at CASCADE Lab to maintain and improve [causalbench.org](https://causalbench.org), a platform dedicated to causal discovery benchmarks.
+  * Built a causal-analysis recommendation system; led end-to-end integration and serverless deployment on AWS Lambda; published at [**CIKM 2025**](https://cikm2025.org/).
 
 * **August 2024 - May 2025**: Graduate Teaching Assistant at Emitlab, [School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/)
   * Assisted in CSE515 and CSE510 graduate-level computer science courses.
@@ -40,9 +39,13 @@ Abhinav has contributed to award-winning projects like [CausalBench](https://cau
 
 ## Publications
 
-1. [**Introducing CausalBench: A Flexible Benchmark Framework for Causal Analysis and Machine Learning**](https://doi.org/10.1145/3627673.3679218) [[website](https://causalbench.org)]
+1. [**Introducing CausalBench: A Flexible Benchmark Framework for Causal Analysis and Machine Learning**] · [Paper](https://doi.org/10.1145/3627673.3679218) · [Website](https://causalbench.org)
    - 🏆 Best Demo Paper Award
    - **Venue** - [ACM International Conference on Information and Knowledge Management 2024](https://doi.org/10.1145/3627673)
+
+## Community Service & Outreach
+* **Student Volunteer**, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)
+* **Tutorial Presenter**, KDD 2025 — *CausalBench: Causal Learning Research Streamlined* · [Paper](https://dl.acm.org/doi/abs/10.1145/3711896.3737598) · [Video (YouTube)](https://www.youtube.com/watch?v=oGA2kf4Trg4)
 
 ## Projects
 
