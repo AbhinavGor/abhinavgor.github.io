@@ -13,7 +13,7 @@ Abhinav has contributed to award-winning projects like [CausalBench](https://cau
 
 ## Education
 * **Master of Science** in Computer Science, [Arizona State University](https://scai.engineering.asu.edu/), December 2025 (expected)
-  - GPA: 4.00/4.00 (current)
+  - CGPA: 4.00/4.00 (current)
 * **Bachelor of Technology** in Computer Science and Engineering, [Vellore Institute of Technology](https://vit.ac.in/), May 2023
   - CGPA: 8.98/10.00
 
