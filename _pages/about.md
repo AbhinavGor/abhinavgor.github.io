@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Abhinav Gorantla is currently pursuing a Master of Science degree in Computer Science at [Arizona State University](https://scai.engineering.asu.edu/), where he works as a Graduate Research Assistant in the EMIT Lab. His research interests are machine learning, multi-objective optimization, generative AI (broadly). He also has experience as a full-stack web developer.
+Abhinav Gorantla is a Ph.D student in Computer Science at [Arizona State University](https://scai.engineering.asu.edu), working with Prof. K. Selçuk Candan in the [EMIT Lab](https://emitlab.github.io). His research focuses on algorithms and systems for causal and generative machine learning, with an emphasis on causal benchmarking frameworks, multi-objective optimization (Skyline/Pareto-style selection).
 
-Abhinav has contributed to award-winning projects like [CausalBench](https://causalbench.org) (a flexible benchmarking solution for causal ML algorithms).
+He also has experience as a full-stack web developer and applied ML engineer. He is a co-author of [CausalBench](https://causalbench.org), a flexible benchmarking platform for causal machine learning that received the Best Demo Award at [ACM CIKM 2024](https://dl.acm.org/doi/proceedings/10.1145/3627673).
 
 ## Education
 * **Doctor of Philosophy** in Computer Science, [Arizona State University](https://scai.engineering.asu.edu/), Current
