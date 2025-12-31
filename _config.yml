@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Abhinav Gorantla"
 title_separator          : "-"
 name                     : &name "Abhinav Gorantla"
-description              : &description "MSCS @ ASU"
+description              : &description "Causal & generative ML, multi-objective optimization at ASU"
 url                      : https://abhinavgor.github.io
 baseurl                  : ""
 repository               : # repo
@@ -24,7 +24,7 @@ author:
   avatar           : "https://avatars.githubusercontent.com/u/56104674?v=4"
   name             : "Abhinav Gorantla"
   pronouns         : # example: "she/her"  
-  bio              : "Graduate Computer Science Student at ASU"
+  bio              : "Ph.D. student in Computer Science, ASU"
   location         : "Tempe, AZ"
   employer         : "Arizona State University"
   uri              : # example.com
@@ -65,7 +65,7 @@ author:
   strava           : "43863750"
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "asteroidc0ffee"  # Replace this with your X / Twitter handle
+  twitter          : #"Username"  # Replace this with your X / Twitter handle
   unsplash         : "abhinavgorantla" # Username
   vine             : # Username
   weibo            : # Username

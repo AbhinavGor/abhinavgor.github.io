@@ -7,16 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-Abhinav Gorantla is a Ph.D student in Computer Science at [Arizona State University](https://scai.engineering.asu.edu), working with Prof. K. Selçuk Candan in the [EMIT Lab](https://emitlab.github.io). His research focuses on algorithms and systems for causal and generative machine learning, with an emphasis on causal benchmarking frameworks, multi-objective optimization (Skyline/Pareto-style selection).
+Abhinav Gorantla is a Ph.D student in Computer Science at [Arizona State University](https://scai.engineering.asu.edu), working with [Prof. K. Selçuk Candan](https://kscandan.site) in the [EMIT Lab](https://emitlab.github.io). He recently completed his M.S. in Computer Science at ASU. His research focuses on algorithms and systems for causal and generative machine learning, with an emphasis on causal benchmarking frameworks, multi-objective optimization (Skyline/Pareto-style selection).
 
 He also has experience as a full-stack web developer and applied ML engineer. He is a co-author of [CausalBench](https://causalbench.org), a flexible benchmarking platform for causal machine learning that received the Best Demo Award at [ACM CIKM 2024](https://dl.acm.org/doi/proceedings/10.1145/3627673).
 
-## Education
-* **Doctor of Philosophy** in Computer Science, [Arizona State University](https://scai.engineering.asu.edu/), Current
-* **Master of Science** in Computer Science, [Arizona State University](https://scai.engineering.asu.edu/), December 2025
-  - CGPA: 4.00/4.00
-* **Bachelor of Technology** in Computer Science and Engineering, [Vellore Institute of Technology](https://vit.ac.in/), May 2023
-  - CGPA: 8.98/10.00
+## Research 
+
+My research lies at the intersection of causal machine learning, multi-objective optimization, and generative models. I am especially interested in:
+
+- **Causal benchmarking and systems.** Designing and maintaining [CausalBench](https://causalbench.org), a benchmarking framework and service for causal learning algorithms (causal discovery, causal inference, and interpretability).
+- **Multi-objective optimization & skyline queries.** Studying efficient Skyline/Pareto-style retrieval in relational data, including how causal structure can impact efficiency of Pareto-style retrieval algorithms.
+
+## Education 
+
+* **Doctor of Philosophy** in Computer Science, Arizona State University, **starting Jan 2026** (incoming)  
+  * Advisor: Prof. K. Selçuk Candan  
+* **Master of Science** in Computer Science, Arizona State University, Dec 2025  
+  * GPA: 4.00/4.00
+  * Advisor: Prof. K. Selçuk Candan  
+* **Bachelor of Technology** in Computer Science and Engineering, Vellore Institute of Technology, May 2023  
+  * GPA: 8.98/10.00
 
 ## Experience
 * **August 2024 - Now**: Graduate Research Assistant at [Emitlab](https://emitlab.github.io), [School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/)
@@ -29,24 +39,42 @@ He also has experience as a full-stack web developer and applied ML engineer. He
 
 
 * March 2024 – August 2024: Graduate Services Assistant at [Emitlab](https://emitlab.github.io), [School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/)
-  * Supported CASCADE Lab researchers in developing the causalbench Python package and website, establishing an end-to-end benchmarking solution for the causal machine learning community.
-  * Served as a full stack developer on the CausalBench project, contributing to a comprehensive framework for benchmarking causal machine learning algorithms.
-  * Optimized backend architecture for the Skysong project, enhancing data flow efficiency and achieving an 80% improvement in server response time. Reduced deployment costs by 30% by integrating AWS SageMaker.
+  * Helped develop the `causalbench` Python package and causalbench.org website as an end-to-end benchmarking solution for the causal machine learning community.  
+  * Served as a full-stack developer on CausalBench, integrating datasets, models, and metrics into a unified evaluation workflow.  
+  * Redesigned the backend architecture for the Skysong project, enabling responsive causal analyses in production (≈80% faster response times, ≈30% lower deployment cost via AWS SageMaker).
 
 * April 2022 – June 2023: SDE Intern at Webknot Technologies Pvt. Ltd.
   * Revamped API endpoints within the Palette project, achieving a notable 30% reduction in response times.
-  * Engineered a custom plugin for Sisense BI software, enabling the seamless display of geojson data on a GeoJSON layer atop maps rendered via DeckGL.
   * Fine-tuned data flow for the DeckGL plugin within Sisense by elevating the efficiency of JAQL queries, ensuring a smoother and more responsive user experience.
+  * Engineered a custom plugin for Sisense BI software, enabling the seamless display of geojson data on a GeoJSON layer atop maps rendered via DeckGL.
+
 
 ## Publications
 
-1. [**Introducing CausalBench: A Flexible Benchmark Framework for Causal Analysis and Machine Learning**] · [Paper](https://doi.org/10.1145/3627673.3679218) · [Website](https://causalbench.org)
-   - 🏆 Best Demo Paper Award
-   - **Venue** - [ACM International Conference on Information and Knowledge Management 2024](https://doi.org/10.1145/3627673)
+1. A. Kapkıç, P. Mandal, **A. Gorantla**, S. Wan, E. Çoban, P. Sheth, H. Liu, and K. S. Candan.  
+   “CausalBench-ER: Causally-Informed Explanations and Recommendations for Reproducible Benchmarking.”  
+   *Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM ’25)*,  
+   Seoul, Republic of Korea, Nov 10–14, 2025, pp. 6426–6431.  
+   [[paper]](https://doi.org/10.1145/3746252.3761606)
+2. A. Kapkıç, P. Mandal, **A. Gorantla**, S. Wan, E. Çoban, P. Sheth, H. Liu, and K. S. Candan.  
+   “CausalBench: Causal Learning Research Streamlined.”  
+   *Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’25), Vol. 2*,  
+   Toronto, Canada, Aug 3–7, 2025, pp. 6239–6240.  
+   [[paper]](https://doi.org/10.1145/3711896.3737598) [[tutorial site]](https://tutorial.causalbench.org/) [[slides]](https://tutorial.causalbench.org/resources/KDD25_Tutorial_Deck.pdf) [[video]](https://www.youtube.com/watch?v=oGA2kf4Trg4)
+3. A. Kapkıç, P. Mandal, S. Wan, P. Sheth, **A. Gorantla**, Y. Choi, H. Liu, and K. S. Candan.  
+   “Introducing CausalBench: A Flexible Benchmark Framework for Causal Analysis and Machine Learning.”  
+   *Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM 2024)*, pp. 5220–5224, 2024. (🏆 Best Demo Paper Award)  
+   [[paper]](https://doi.org/10.1145/3627673.3679218) [[website]](https://docs.causalbench.org)
+
+## Tutorials
+
+* **CausalBench: Causal Learning Research Streamlined** – Tutorial at KDD 2025, Toronto, Canada.  
+  Overview of causal machine learning, challenges in benchmarking, and hands-on use of the CausalBench platform.  
+  [[tutorial site]](https://tutorial.causalbench.org/) [[slides]](https://tutorial.causalbench.org/resources/KDD25_Tutorial_Deck.pdf) [[video]](https://www.youtube.com/watch?v=oGA2kf4Trg4)
+
 
 ## Community Service & Outreach
 * **Student Volunteer**, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)
-* **Tutorial Presenter**, KDD 2025 — *CausalBench: Causal Learning Research Streamlined* · [Paper](https://dl.acm.org/doi/abs/10.1145/3711896.3737598) · [Video (YouTube)](https://www.youtube.com/watch?v=oGA2kf4Trg4)
 
 ## Projects
 
