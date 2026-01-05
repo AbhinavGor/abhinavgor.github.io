@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resources"
+title: "Notes and Links"
 permalink: /notes_and_links/
 author_profile: true
 ---
