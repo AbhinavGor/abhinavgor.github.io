@@ -2,8 +2,10 @@
 main:
   - title: "Home"
     url: /
-  - title: "Misc"
-    url: /misc/
+  - title: "Resources"
+    url: /resources/
+  - title: "Not Work"
+    url: /not_work/
   # - title: "Publications"
   #   url: /publications/
 
