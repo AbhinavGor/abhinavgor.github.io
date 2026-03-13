@@ -20,8 +20,8 @@ My research lies at the intersection of causal machine learning, multi-objective
 
 ## Education 
 
-* **Doctor of Philosophy** in Computer Science, Arizona State University, **starting Jan 2026** (incoming)  
-  * Advisor: Prof. K. Selçuk Candan  
+* **Doctor of Philosophy** in Computer Science, Arizona State University, Jan 2026 - Present  
+  * Advisor: Prof. K. Selçuk Candan
 * **Master of Science** in Computer Science, Arizona State University, Dec 2025  
   * GPA: 4.00/4.00
   * Advisor: Prof. K. Selçuk Candan  
