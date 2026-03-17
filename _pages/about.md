@@ -51,17 +51,21 @@ My research lies at the intersection of causal machine learning, multi-objective
 
 ## Publications
 
-1. A. Kapkıç, P. Mandal, **A. Gorantla**, S. Wan, E. Çoban, P. Sheth, H. Liu, and K. S. Candan.  
+1. P. Mandal, **A. Gorantla**, K. S. Candan, and M. L. Sapino.  
+  “Causal Search for Skylines (CSS): Causally-Informed Selective Data De-Correlation.”  
+  *Accepted to the ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD 2026).*  
+  [[preprint]](https://arxiv.org/abs/2603.14339)
+2. A. Kapkıç, P. Mandal, **A. Gorantla**, S. Wan, E. Çoban, P. Sheth, H. Liu, and K. S. Candan.  
    “CausalBench-ER: Causally-Informed Explanations and Recommendations for Reproducible Benchmarking.”  
    *Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM ’25)*,  
    Seoul, Republic of Korea, Nov 10–14, 2025, pp. 6426–6431.  
    [[paper]](https://doi.org/10.1145/3746252.3761606)
-2. A. Kapkıç, P. Mandal, **A. Gorantla**, S. Wan, E. Çoban, P. Sheth, H. Liu, and K. S. Candan.  
+3. A. Kapkıç, P. Mandal, **A. Gorantla**, S. Wan, E. Çoban, P. Sheth, H. Liu, and K. S. Candan.  
    “CausalBench: Causal Learning Research Streamlined.”  
    *Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’25), Vol. 2*,  
    Toronto, Canada, Aug 3–7, 2025, pp. 6239–6240.  
    [[paper]](https://doi.org/10.1145/3711896.3737598) [[tutorial site]](https://tutorial.causalbench.org/) [[slides]](https://tutorial.causalbench.org/resources/KDD25_Tutorial_Deck.pdf) [[video]](https://www.youtube.com/watch?v=oGA2kf4Trg4)
-3. A. Kapkıç, P. Mandal, S. Wan, P. Sheth, **A. Gorantla**, Y. Choi, H. Liu, and K. S. Candan.  
+4. A. Kapkıç, P. Mandal, S. Wan, P. Sheth, **A. Gorantla**, Y. Choi, H. Liu, and K. S. Candan.  
    “Introducing CausalBench: A Flexible Benchmark Framework for Causal Analysis and Machine Learning.”  
    *Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM 2024)*, pp. 5220–5224, 2024. (🏆 Best Demo Paper Award)  
    [[paper]](https://doi.org/10.1145/3627673.3679218) [[website]](https://docs.causalbench.org)
