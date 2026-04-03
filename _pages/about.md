@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Abhinav Gorantla is a Ph.D student in Computer Science at [Arizona State University](https://scai.engineering.asu.edu), working with [Prof. K. Selçuk Candan](https://kscandan.site) in the [EMIT Lab](https://emitlab.github.io). He recently completed his M.S. in Computer Science at ASU. His research focuses on algorithms and systems for causal and generative machine learning, with an emphasis on causal benchmarking frameworks, multi-objective optimization (Skyline/Pareto-style selection).
-
-He also has experience as a full-stack web developer and applied ML engineer. He is a co-author of [CausalBench](https://causalbench.org), a flexible benchmarking platform for causal machine learning that received the Best Demo Award at [ACM CIKM 2024](https://dl.acm.org/doi/proceedings/10.1145/3627673).
+I am a first-year Ph.D. student in Computer Science at Arizona State University, working with [Prof. K. Selçuk Candan](https://kscandan.site) in [EMIT Lab](https://emitlab.github.io). Broadly, I study how ideas from causality can improve machine learning. During my M.S. at ASU (completed with distinction), I contributed to [CausalBench](https://causalbench.org), an open benchmarking platform for causal ML (Best Demo Award, CIKM 2024), and published work on causally-informed data retrieval at SIGMOD 2026. I'm currently exploring how causal priors can improve the training and generalization of ML models. I also build the systems behind this research — I'm a core developer of the CausalBench platform and co-presented a tutorial on causal benchmarking at KDD 2025.
 
 ## Research 
 

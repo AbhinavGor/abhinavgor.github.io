@@ -21,7 +21,7 @@ repository               : # repo
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://avatars.githubusercontent.com/u/56104674?v=4"
+  avatar           : "https://images.unsplash.com/photo-1766097182804-7627ae9e2585?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   name             : "Abhinav Gorantla"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student in Computer Science, ASU"
