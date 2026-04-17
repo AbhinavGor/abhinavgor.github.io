@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in Computer Science at Arizona State University, working with [Prof. K. Selçuk Candan](https://kscandan.site) in [EMIT Lab](https://emitlab.github.io). Broadly, I study how ideas from causality can improve machine learning. During my M.S. at ASU (completed with distinction), I contributed to [CausalBench](https://causalbench.org), an open benchmarking platform for causal ML (Best Demo Award, CIKM 2024), and published work on causally-informed data retrieval at SIGMOD 2026. I'm currently exploring how causal priors can improve the training and generalization of ML models. I also build the systems behind this research — I'm a core developer of the CausalBench platform and co-presented a tutorial on causal benchmarking at KDD 2025.
-
+I am a Ph.D. student in Computer Science at Arizona State University, working with [Prof. K. Selçuk Candan](https://kscandan.site) in [EMIT Lab](https://emitlab.github.io). Broadly, I study how ideas from causality can improve machine learning. During my M.S. at ASU (completed with distinction), I contributed to [CausalBench](https://causalbench.org), an open benchmarking platform for causal ML (Best Demo Award, CIKM 2024; [tutorial at KDD 2025](https://tutorial.causalbench.org/)), and co-authored work on causally-informed data retrieval at SIGMOD 2026. I'm currently investigating how causal structure can be leveraged improve the robustness and generalization of ML models. 
 ## Research 
 
 My research lies at the intersection of causal machine learning, multi-objective optimization, and generative models. I am especially interested in:
