@@ -51,24 +51,28 @@ My research lies at the intersection of causal machine learning, multi-objective
 1. P. Mandal, **A. Gorantla**, K. S. Candan, and M. L. Sapino.  
   “Causal Search for Skylines (CSS): Causally-Informed Selective Data De-Correlation.”  
   *Accepted to the ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD 2026).*  
+  
+  Proposes a selective de-correlation method to optimize time complexity of Skyline search algorithms.
   [[preprint]](https://arxiv.org/abs/2603.14339)
-  - Proposes a selective de-correlation method to optimize time complexity of Skyline search algorithms.
 1. A. Kapkıç, P. Mandal, **A. Gorantla**, S. Wan, E. Çoban, P. Sheth, H. Liu, and K. S. Candan.  
    “CausalBench-ER: Causally-Informed Explanations and Recommendations for Reproducible Benchmarking.”  
    *Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM ’25)*,  
    Seoul, Republic of Korea, Nov 10–14, 2025, pp. 6426–6431.  
-   - Extends CausalBench with causally-informed explanations and recommendations to help researchers better understand and reproduce their results.
+   
+   Extends CausalBench with causally-informed explanations and recommendations to help researchers better understand and reproduce their results.
    [[paper]](https://doi.org/10.1145/3746252.3761606)
 2. A. Kapkıç, P. Mandal, **A. Gorantla**, S. Wan, E. Çoban, P. Sheth, H. Liu, and K. S. Candan.  
    “CausalBench: Causal Learning Research Streamlined.”  
    *Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’25), Vol. 2*,  
    Toronto, Canada, Aug 3–7, 2025, pp. 6239–6240.
-   - Overview of causal machine learning, challenges in benchmarking, and hands-on use of the CausalBench platform.    
+   
+   Overview of causal machine learning, challenges in benchmarking, and hands-on use of the CausalBench platform.    
    [[paper]](https://doi.org/10.1145/3711896.3737598) [[tutorial site]](https://tutorial.causalbench.org/) [[slides]](https://tutorial.causalbench.org/resources/KDD25_Tutorial_Deck.pdf) [[video]](https://www.youtube.com/watch?v=oGA2kf4Trg4)
-3. A. Kapkıç, P. Mandal, S. Wan, P. Sheth, **A. Gorantla**, Y. Choi, H. Liu, and K. S. Candan.  
+1. A. Kapkıç, P. Mandal, S. Wan, P. Sheth, **A. Gorantla**, Y. Choi, H. Liu, and K. S. Candan.  
    “Introducing CausalBench: A Flexible Benchmark Framework for Causal Analysis and Machine Learning.”  
    *Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM 2024)*, pp. 5220–5224, 2024. (🏆 Best Demo Paper Award)
-   - Introduces an open platform that standardizes how causal learning algorithms are evaluated and compared across the research community.
+   
+   Introduces an open platform that standardizes how causal learning algorithms are evaluated and compared across the research community.
    [[paper]](https://doi.org/10.1145/3627673.3679218) [[website]](https://docs.causalbench.org)
 
 ## Tutorials
