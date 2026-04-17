@@ -10,8 +10,9 @@ redirect_from:
 I am a Ph.D. student in Computer Science at Arizona State University, working with [Prof. K. Selçuk Candan](https://kscandan.site) in [EMIT Lab](https://emitlab.github.io). Broadly, I study how ideas from causality can improve machine learning. During my M.S. at ASU (completed with distinction), I contributed to [CausalBench](https://causalbench.org), an open benchmarking platform for causal ML (Best Demo Award, CIKM 2024; [tutorial at KDD 2025](https://tutorial.causalbench.org/)), and co-authored work on causally-informed data retrieval at SIGMOD 2026. I'm currently investigating how causal structure can be leveraged to improve the robustness and generalization of ML models. 
 ## Research 
 
-My research lies at the intersection of causal machine learning, multi-objective optimization, and generative models. I am especially interested in:
+My research lies at the intersection of causal machine learning and multi-objective optimization. I am especially interested in:
 
+- **Causal structure for ML generalization.** Investigating how causal priors can improve the robustness and generalization of ML models.
 - **Causal benchmarking and systems.** Designing and maintaining [CausalBench](https://causalbench.org), a benchmarking framework and service for causal learning algorithms (causal discovery, causal inference, and interpretability).
 - **Multi-objective optimization & skyline queries.** Studying efficient Skyline/Pareto-style retrieval in relational data, including how causal structure can impact efficiency of Pareto-style retrieval algorithms.
 
@@ -54,32 +55,26 @@ My research lies at the intersection of causal machine learning, multi-objective
   
   Proposes a selective de-correlation method to optimize time complexity of Skyline search algorithms.
   [[preprint]](https://arxiv.org/abs/2603.14339)
-1. A. Kapkıç, P. Mandal, **A. Gorantla**, S. Wan, E. Çoban, P. Sheth, H. Liu, and K. S. Candan.  
+2. A. Kapkıç, P. Mandal, **A. Gorantla**, S. Wan, E. Çoban, P. Sheth, H. Liu, and K. S. Candan.  
    “CausalBench-ER: Causally-Informed Explanations and Recommendations for Reproducible Benchmarking.”  
    *Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM ’25)*,  
    Seoul, Republic of Korea, Nov 10–14, 2025, pp. 6426–6431.  
    
    Extends CausalBench with causally-informed explanations and recommendations to help researchers better understand and reproduce their results.
    [[paper]](https://doi.org/10.1145/3746252.3761606)
-2. A. Kapkıç, P. Mandal, **A. Gorantla**, S. Wan, E. Çoban, P. Sheth, H. Liu, and K. S. Candan.  
+3. A. Kapkıç, P. Mandal, **A. Gorantla**, S. Wan, E. Çoban, P. Sheth, H. Liu, and K. S. Candan.  
    “CausalBench: Causal Learning Research Streamlined.”  
    *Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’25), Vol. 2*,  
    Toronto, Canada, Aug 3–7, 2025, pp. 6239–6240.
    
    Overview of causal machine learning, challenges in benchmarking, and hands-on use of the CausalBench platform.    
    [[paper]](https://doi.org/10.1145/3711896.3737598) [[tutorial site]](https://tutorial.causalbench.org/) [[slides]](https://tutorial.causalbench.org/resources/KDD25_Tutorial_Deck.pdf) [[video]](https://www.youtube.com/watch?v=oGA2kf4Trg4)
-1. A. Kapkıç, P. Mandal, S. Wan, P. Sheth, **A. Gorantla**, Y. Choi, H. Liu, and K. S. Candan.  
+4. A. Kapkıç, P. Mandal, S. Wan, P. Sheth, **A. Gorantla**, Y. Choi, H. Liu, and K. S. Candan.  
    “Introducing CausalBench: A Flexible Benchmark Framework for Causal Analysis and Machine Learning.”  
    *Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM 2024)*, pp. 5220–5224, 2024. (🏆 Best Demo Paper Award)
    
    Introduces an open platform that standardizes how causal learning algorithms are evaluated and compared across the research community.
    [[paper]](https://doi.org/10.1145/3627673.3679218) [[website]](https://docs.causalbench.org)
-
-## Tutorials
-
-* **CausalBench: Causal Learning Research Streamlined** – Tutorial at KDD 2025, Toronto, Canada.  
-  Overview of causal machine learning, challenges in benchmarking, and hands-on use of the CausalBench platform.  
-  [[tutorial site]](https://tutorial.causalbench.org/) [[slides]](https://tutorial.causalbench.org/resources/KDD25_Tutorial_Deck.pdf) [[video]](https://www.youtube.com/watch?v=oGA2kf4Trg4)
 
 
 ## Community Service & Outreach
