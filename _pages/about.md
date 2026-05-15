@@ -19,12 +19,57 @@ My research lies at the intersection of causal machine learning and multi-object
 ## Education 
 
 * **Doctor of Philosophy** in Computer Science, Arizona State University, Jan 2026 - Present  
+  * GPA: 4.00/4.00
   * Advisor: Prof. K. Selçuk Candan
 * **Master of Science** in Computer Science, Arizona State University, Dec 2025  
   * GPA: 4.00/4.00
+  * Honors: with Distinction
   * Advisor: Prof. K. Selçuk Candan  
 * **Bachelor of Technology** in Computer Science and Engineering, Vellore Institute of Technology, May 2023  
   * GPA: 8.98/10.00
+
+## Publications
+
+1. P. Mandal, **A. Gorantla**, K. S. Candan, and M. L. Sapino.  
+   “Causal Search for Skylines (CSS): Causally-Informed Selective Data De-Correlation.”  
+   *Accepted to the ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD 2026).*  
+   
+   Proposes a selective de-correlation method to optimize time complexity of Skyline search algorithms.
+   [[preprint]](https://arxiv.org/abs/2603.14339)
+
+2. A. Kapkıç, P. Mandal, **A. Gorantla**, S. Wan, E. Çoban, H. Liu, and K. S. Candan.  
+   “CausalBench+: Causal-Informed Machine Learning Benchmarking.”  
+   *Proceedings of the Nineteenth ACM International Conference on Web Search and Data Mining (WSDM Companion '26)*,  
+   Boise, ID, USA, 2026, pp. 120–122.  
+   
+   Extends CausalBench beyond the causal learning domain, enabling fair benchmarking across general machine learning tasks through user-provided task definitions.  
+   [[paper]](https://doi.org/10.1145/3779211.3793181)
+   
+3. A. Kapkıç, P. Mandal, **A. Gorantla**, S. Wan, E. Çoban, P. Sheth, H. Liu, and K. S. Candan.  
+   “CausalBench-ER: Causally-Informed Explanations and Recommendations for Reproducible Benchmarking.”  
+   *Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM ’25)*,  
+   Seoul, Republic of Korea, Nov 10–14, 2025, pp. 6426–6431.  
+   
+   Extends CausalBench with causally-informed explanations and recommendations to help researchers better understand and reproduce their results.
+   [[paper]](https://doi.org/10.1145/3746252.3761606)
+
+4. A. Kapkıç, P. Mandal, **A. Gorantla**, S. Wan, E. Çoban, P. Sheth, H. Liu, and K. S. Candan.  
+   “CausalBench: Causal Learning Research Streamlined.”  
+   *Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’25), Vol. 2*,  
+   Toronto, Canada, Aug 3–7, 2025, pp. 6239–6240.
+   
+   Overview of causal machine learning, challenges in benchmarking, and hands-on use of the CausalBench platform.    
+   [[paper]](https://doi.org/10.1145/3711896.3737598) [[tutorial site]](https://tutorial.causalbench.org/) [[slides]](https://tutorial.causalbench.org/resources/KDD25_Tutorial_Deck.pdf) [[video]](https://www.youtube.com/watch?v=oGA2kf4Trg4)
+
+5. A. Kapkıç, P. Mandal, S. Wan, P. Sheth, **A. Gorantla**, Y. Choi, H. Liu, and K. S. Candan.  
+   “Introducing CausalBench: A Flexible Benchmark Framework for Causal Analysis and Machine Learning.”  
+   *Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM 2024)*, pp. 5220–5224, 2024. (🏆 Best Demo Paper Award)
+   
+   Introduces an open platform that standardizes how causal learning algorithms are evaluated and compared across the research community.
+   [[paper]](https://doi.org/10.1145/3627673.3679218) [[website]](https://docs.causalbench.org)
+
+## Community Service & Outreach
+* **Student Volunteer**, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)
 
 ## Experience
 * **August 2024 - Now**: Graduate Research Assistant at [Emitlab](https://emitlab.github.io), [School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/)
@@ -45,40 +90,6 @@ My research lies at the intersection of causal machine learning and multi-object
   * Revamped API endpoints within the Palette project, achieving a notable 30% reduction in response times.
   * Fine-tuned data flow for the DeckGL plugin within Sisense by elevating the efficiency of JAQL queries, ensuring a smoother and more responsive user experience.
   * Engineered a custom plugin for Sisense BI software, enabling the seamless display of geojson data on a GeoJSON layer atop maps rendered via DeckGL.
-
-
-## Publications
-
-1. P. Mandal, **A. Gorantla**, K. S. Candan, and M. L. Sapino.  
-  “Causal Search for Skylines (CSS): Causally-Informed Selective Data De-Correlation.”  
-  *Accepted to the ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD 2026).*  
-  
-  Proposes a selective de-correlation method to optimize time complexity of Skyline search algorithms.
-  [[preprint]](https://arxiv.org/abs/2603.14339)
-2. A. Kapkıç, P. Mandal, **A. Gorantla**, S. Wan, E. Çoban, P. Sheth, H. Liu, and K. S. Candan.  
-   “CausalBench-ER: Causally-Informed Explanations and Recommendations for Reproducible Benchmarking.”  
-   *Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM ’25)*,  
-   Seoul, Republic of Korea, Nov 10–14, 2025, pp. 6426–6431.  
-   
-   Extends CausalBench with causally-informed explanations and recommendations to help researchers better understand and reproduce their results.
-   [[paper]](https://doi.org/10.1145/3746252.3761606)
-3. A. Kapkıç, P. Mandal, **A. Gorantla**, S. Wan, E. Çoban, P. Sheth, H. Liu, and K. S. Candan.  
-   “CausalBench: Causal Learning Research Streamlined.”  
-   *Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’25), Vol. 2*,  
-   Toronto, Canada, Aug 3–7, 2025, pp. 6239–6240.
-   
-   Overview of causal machine learning, challenges in benchmarking, and hands-on use of the CausalBench platform.    
-   [[paper]](https://doi.org/10.1145/3711896.3737598) [[tutorial site]](https://tutorial.causalbench.org/) [[slides]](https://tutorial.causalbench.org/resources/KDD25_Tutorial_Deck.pdf) [[video]](https://www.youtube.com/watch?v=oGA2kf4Trg4)
-4. A. Kapkıç, P. Mandal, S. Wan, P. Sheth, **A. Gorantla**, Y. Choi, H. Liu, and K. S. Candan.  
-   “Introducing CausalBench: A Flexible Benchmark Framework for Causal Analysis and Machine Learning.”  
-   *Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM 2024)*, pp. 5220–5224, 2024. (🏆 Best Demo Paper Award)
-   
-   Introduces an open platform that standardizes how causal learning algorithms are evaluated and compared across the research community.
-   [[paper]](https://doi.org/10.1145/3627673.3679218) [[website]](https://docs.causalbench.org)
-
-
-## Community Service & Outreach
-* **Student Volunteer**, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)
 
 ## Awards
 * University Graduate Fellowship, School of Computing and Augmented Intelligence, *Arizona State University*
