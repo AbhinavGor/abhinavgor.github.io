@@ -34,7 +34,6 @@ My research lies at the intersection of causal machine learning and multi-object
    "The Good, the Bad, and the Ugly of Markov Boundary for Tabular Prediction"
    Showed that a target variable oracle Markov boundary can substantially improve tabular prediction, but recovering it
    via causal discovery fails to deliver - motivating prediction-aligned feature selection.
-   
    [[preprint]](https://arxiv.org/abs/2605.29411)
 
 2. P. Mandal, **A. Gorantla**, K. S. Candan, and M. L. Sapino.  
@@ -50,7 +49,7 @@ My research lies at the intersection of causal machine learning and multi-object
    *Proceedings of the Nineteenth ACM International Conference on Web Search and Data Mining (WSDM Companion '26)*,  
    Boise, ID, USA, 2026, pp. 120–122.  
    
-   Extends CausalBench beyond the causal learning domain, enabling fair benchmarking across general machine learning tasks through user-provided task definitions.  
+   Extends CausalBench beyond the causal learning domain, enabling fair benchmarking across general machine learning tasks through user-provided task definitions.
    [[paper]](https://doi.org/10.1145/3779211.3793181)
    
 4. A. Kapkıç, P. Mandal, **A. Gorantla**, S. Wan, E. Çoban, P. Sheth, H. Liu, and K. S. Candan.  
