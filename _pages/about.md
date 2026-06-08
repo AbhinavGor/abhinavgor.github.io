@@ -35,13 +35,14 @@ My research lies at the intersection of causal machine learning and multi-object
    Showed that a target variable oracle Markov boundary can substantially improve tabular prediction, but recovering it
    via causal discovery fails to deliver - motivating prediction-aligned feature selection.
    
-   [[Preprint]](https://arxiv.org/abs/2605.29411)
+   [[preprint]](https://arxiv.org/abs/2605.29411)
 
 2. P. Mandal, **A. Gorantla**, K. S. Candan, and M. L. Sapino.  
    “Causal Search for Skylines (CSS): Causally-Informed Selective Data De-Correlation.”  
    *Proceedings of the ACM on Management of Data, Volume 4, Issue 3 (SIGMOD 2026).*  
    
-   Proposes a selective de-correlation method to optimize time complexity of Skyline search algorithms.
+   Proposes a method for leveraging causal structure to selectively de-correlate data, improving efficiency of Skyline 
+   retrieval in relational databases.
    [[paper]](DOI: https://doi.org/10.1145/3802026)
 
 3. A. Kapkıç, P. Mandal, **A. Gorantla**, S. Wan, E. Çoban, H. Liu, and K. S. Candan.  
