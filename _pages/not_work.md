@@ -41,6 +41,6 @@ Beyond research papers, I read a fair amount for some time away from research. I
 
 I dip into fiction now and then too, some favorites:
 
-- *Drift* — C.J. Tudor
+- *The Drift* — C.J. Tudor
 - *Project Hail Mary* — Andy Weir
 - *The Godfather* — Mario Puzo
