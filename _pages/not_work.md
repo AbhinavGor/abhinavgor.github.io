@@ -27,7 +27,7 @@ You can see my full gallery on
 [Unsplash](https://unsplash.com/@abhinavgorantla).
 
 ## Homelab
-When I want to tinker without a deadline, I run a small self-hosted setup, a home server on Ubuntu, things in Docker, and everything stitched together over Tailscale. I am moving towards open sourced alternatives for some common cloud applications in an effort to "own" my data. So far, I have been successful at replacing Google Photos with [[Immich]](https://immich.app/), Google Home with [[Home Assistant]](https://www.home-assistant.io/), Notion with a combination of [[Obsidian]](https://obsidian.md/) + [[CouchDB]](https://couchdb.apache.org/).
+When I want to tinker without a deadline, I run a small self-hosted setup, a home server on Ubuntu, things in Docker, and everything stitched together over Tailscale. I am moving towards open sourced alternatives for some common cloud applications in an effort to "own" my data. So far, I have been successful at replacing Google Photos with [Immich](https://immich.app/), Google Home with [HomeAssistant]](https://www.home-assistant.io/), Notion with a combination of [Obsidian](https://obsidian.md/) + [CouchDB](https://couchdb.apache.org/).
 
 The switch has had its own set of challenges, at one point I lost all my self-hosted photos which made me realize the importance of having multiple backups.
 It scratches the same itch as research: figuring out how a system works by running it end to end myself.
