@@ -30,14 +30,21 @@ My research lies at the intersection of causal machine learning and multi-object
 
 ## Publications
 
-1. P. Mandal, **A. Gorantla**, K. S. Candan, and M. L. Sapino.  
+1. S. Wan, **A. Gorantla**, Huan Liu, K. S. Candan
+   "The Good, the Bad, and the Ugly of Markov Boundary for Tabular Prediction"
+   Showed that a target variable oracle Markov boundary can substantially improve tabular prediction, but recovering it
+   via causal discovery fails to deliver - motivating prediction-aligned feature selection.
+   
+   [[Preprint]](https://arxiv.org/abs/2605.29411)
+
+2. P. Mandal, **A. Gorantla**, K. S. Candan, and M. L. Sapino.  
    “Causal Search for Skylines (CSS): Causally-Informed Selective Data De-Correlation.”  
-   *Accepted to the ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD 2026).*  
+   *Proceedings of the ACM on Management of Data, Volume 4, Issue 3 (SIGMOD 2026).*  
    
    Proposes a selective de-correlation method to optimize time complexity of Skyline search algorithms.
-   [[preprint]](https://arxiv.org/abs/2603.14339)
+   [[paper]](DOI: https://doi.org/10.1145/3802026)
 
-2. A. Kapkıç, P. Mandal, **A. Gorantla**, S. Wan, E. Çoban, H. Liu, and K. S. Candan.  
+3. A. Kapkıç, P. Mandal, **A. Gorantla**, S. Wan, E. Çoban, H. Liu, and K. S. Candan.  
    “CausalBench+: Causal-Informed Machine Learning Benchmarking.”  
    *Proceedings of the Nineteenth ACM International Conference on Web Search and Data Mining (WSDM Companion '26)*,  
    Boise, ID, USA, 2026, pp. 120–122.  
@@ -45,7 +52,7 @@ My research lies at the intersection of causal machine learning and multi-object
    Extends CausalBench beyond the causal learning domain, enabling fair benchmarking across general machine learning tasks through user-provided task definitions.  
    [[paper]](https://doi.org/10.1145/3779211.3793181)
    
-3. A. Kapkıç, P. Mandal, **A. Gorantla**, S. Wan, E. Çoban, P. Sheth, H. Liu, and K. S. Candan.  
+4. A. Kapkıç, P. Mandal, **A. Gorantla**, S. Wan, E. Çoban, P. Sheth, H. Liu, and K. S. Candan.  
    “CausalBench-ER: Causally-Informed Explanations and Recommendations for Reproducible Benchmarking.”  
    *Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM ’25)*,  
    Seoul, Republic of Korea, Nov 10–14, 2025, pp. 6426–6431.  
@@ -53,15 +60,15 @@ My research lies at the intersection of causal machine learning and multi-object
    Extends CausalBench with causally-informed explanations and recommendations to help researchers better understand and reproduce their results.
    [[paper]](https://doi.org/10.1145/3746252.3761606)
 
-4. A. Kapkıç, P. Mandal, **A. Gorantla**, S. Wan, E. Çoban, P. Sheth, H. Liu, and K. S. Candan.  
+5. A. Kapkıç, P. Mandal, **A. Gorantla**, S. Wan, E. Çoban, P. Sheth, H. Liu, and K. S. Candan.  
    “CausalBench: Causal Learning Research Streamlined.”  
    *Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’25), Vol. 2*,  
    Toronto, Canada, Aug 3–7, 2025, pp. 6239–6240.
    
    Overview of causal machine learning, challenges in benchmarking, and hands-on use of the CausalBench platform.    
-   [[paper]](https://doi.org/10.1145/3711896.3737598) [[tutorial site]](https://tutorial.causalbench.org/) [[slides]](https://tutorial.causalbench.org/resources/KDD25_Tutorial_Deck.pdf) [[video]](https://www.youtube.com/watch?v=oGA2kf4Trg4)
+   [[paper]](https://doi.org/10.1145/3711896.3737598) | [[tutorial site]](https://tutorial.causalbench.org/) | [[slides]](https://tutorial.causalbench.org/resources/KDD25_Tutorial_Deck.pdf) | [[video]](https://www.youtube.com/watch?v=oGA2kf4Trg4) 
 
-5. A. Kapkıç, P. Mandal, S. Wan, P. Sheth, **A. Gorantla**, Y. Choi, H. Liu, and K. S. Candan.  
+6. A. Kapkıç, P. Mandal, S. Wan, P. Sheth, **A. Gorantla**, Y. Choi, H. Liu, and K. S. Candan.  
    “Introducing CausalBench: A Flexible Benchmark Framework for Causal Analysis and Machine Learning.”  
    *Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM 2024)*, pp. 5220–5224, 2024. (🏆 Best Demo Paper Award)
    
