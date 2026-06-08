@@ -75,7 +75,8 @@ My research lies at the intersection of causal machine learning and multi-object
    Introduces an open platform that standardizes how causal learning algorithms are evaluated and compared across the research community.
    [[paper]](https://doi.org/10.1145/3627673.3679218) [[website]](https://docs.causalbench.org)
 
-## Community Service & Outreach
+## Professional Service
+* **Program Committee Member (Reviewer)**, ACM Conference on Information and Knowledge Management (CIKM 2026)
 * **Student Volunteer**, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)
 
 ## Experience
