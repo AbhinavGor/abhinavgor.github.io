@@ -36,6 +36,8 @@ My research lies at the intersection of causal machine learning and multi-object
    via causal discovery fails to deliver - motivating prediction-aligned feature selection.
    [[preprint]](https://arxiv.org/abs/2605.29411)
 
+   *Accepted to ACM International Conference on Information and Knowledge Management (CIKM) 2026*
+
 2. P. Mandal, **A. Gorantla**, K. S. Candan, and M. L. Sapino.  
    “Causal Search for Skylines (CSS): Causally-Informed Selective Data De-Correlation.”  
    *Proceedings of the ACM on Management of Data, Volume 4, Issue 3 (SIGMOD 2026).*  
@@ -83,6 +85,7 @@ My research lies at the intersection of causal machine learning and multi-object
 * **August 2024 - Now**: Graduate Research Assistant at [Emitlab](https://emitlab.github.io), [School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/)
   * Developing an optimized algorithm for efficient Skyline retrieval in relational database systems.
   * Collaborating with researchers at CASCADE Lab to maintain and improve [causalbench.org](https://causalbench.org), a platform dedicated to causal discovery benchmarks.
+  * Contributed to the engineering effort on [APPEX's](https://appex.org) document-ingestion pipeline, which converts user-uploaded documents into a queryable causal knowledge graph, as part of the Meta-Annotation Team.
   * Built a causal-analysis recommendation system; led end-to-end integration and serverless deployment on AWS Lambda; published at [**CIKM 2025**](https://cikm2025.org/).
 
 * **August 2024 - May 2025**: Graduate Teaching Assistant at [School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/)
