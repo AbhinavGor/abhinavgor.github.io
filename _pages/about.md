@@ -62,20 +62,38 @@ My research lies at the intersection of causal machine learning and multi-object
    Extends CausalBench with causally-informed explanations and recommendations to help researchers better understand and reproduce their results.
    [[paper]](https://doi.org/10.1145/3746252.3761606)
 
-5. A. Kapkıç, P. Mandal, **A. Gorantla**, S. Wan, E. Çoban, P. Sheth, H. Liu, and K. S. Candan.  
+5. A. Kapkıç, P. Mandal, S. Wan, P. Sheth, **A. Gorantla**, Y. Choi, H. Liu, and K. S. Candan.  
+   “Introducing CausalBench: A Flexible Benchmark Framework for Causal Analysis and Machine Learning.”  
+   *Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM 2024)*, pp. 5220–5224, 2024. (🏆 Best Demo Paper Award)
+   
+   Introduces an open platform that standardizes how causal learning algorithms are evaluated and compared across the research community.
+   [[paper]](https://doi.org/10.1145/3627673.3679218) [[website]](https://docs.causalbench.org)
+
+## Pre-prints
+1. **A. Gorantla**, P. Mandal, K. S. Candan, M. L. Sapino
+   "VoS: Variate Ordering Strategies for Skyline Query Optimization"
+
+   Skyline query efficiency depends heavily on data characteristics, and in this paper we argue that algorithms
+   should optimize per-attribute dominance checks (not just per-tuple ones), proposing variate-ordering strategies
+   to cut redundant attribute comparisons
+   [[preprint]](https://arxiv.org/abs/2608.26464)
+
+## Tutorials
+1. F. T. Azad, A. Kapkıç, P. Mandal, **A. Gorantla**, S. Wan, M. L. Sapino, H. Liu, and K. S. Candan.  
+   "Spatio-Causal Modeling and Applications"
+    
+    This tutorial introduces causal and spatio-causal foundations, surveys algorithms for four major spatial decision-support tasks, and concludes with hands-on spatio-causal modeling through CausalBench.
+
+   *Accepted to 34th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL)*, Riverside, California, USA
+   [[Website]](https://spatial.causalbench.org)
+
+2. A. Kapkıç, P. Mandal, **A. Gorantla**, S. Wan, E. Çoban, P. Sheth, H. Liu, and K. S. Candan.  
    “CausalBench: Causal Learning Research Streamlined.”  
    *Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’25), Vol. 2*,  
    Toronto, Canada, Aug 3–7, 2025, pp. 6239–6240.
    
    Overview of causal machine learning, challenges in benchmarking, and hands-on use of the CausalBench platform.    
    [[paper]](https://doi.org/10.1145/3711896.3737598) | [[tutorial site]](https://tutorial.causalbench.org/) | [[slides]](https://tutorial.causalbench.org/resources/KDD25_Tutorial_Deck.pdf) | [[video]](https://www.youtube.com/watch?v=oGA2kf4Trg4) 
-
-6. A. Kapkıç, P. Mandal, S. Wan, P. Sheth, **A. Gorantla**, Y. Choi, H. Liu, and K. S. Candan.  
-   “Introducing CausalBench: A Flexible Benchmark Framework for Causal Analysis and Machine Learning.”  
-   *Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM 2024)*, pp. 5220–5224, 2024. (🏆 Best Demo Paper Award)
-   
-   Introduces an open platform that standardizes how causal learning algorithms are evaluated and compared across the research community.
-   [[paper]](https://doi.org/10.1145/3627673.3679218) [[website]](https://docs.causalbench.org)
 
 ## Professional Service
 * **Program Committee Member (Reviewer)**, ACM Conference on Information and Knowledge Management (CIKM 2026)
@@ -104,3 +122,4 @@ My research lies at the intersection of causal machine learning and multi-object
 
 ## Awards
 * University Graduate Fellowship, School of Computing and Augmented Intelligence, *Arizona State University*
+* Best Demo Award, CIKM 2024 For Introducing CausalBench: A Flexible Benchmark Framework for Causal Analysis and Machine Learning
